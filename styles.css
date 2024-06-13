@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: auto;
+  }
+  body {
+    background-image: url("about us.jpg");
+    background-size: cover;
+    background-position: center top;
+    margin: 30px;   
+  }
+  h1{
+    color:aqua;
+  }
+  nav{
+    color: black;
+    padding: -5px;
+    text-align: right;
+  }
+  nav ul{
+    color:black;
+    list-style: decimal-leading-zero;
+    padding: 20px;
+    text-align: right;
+  }
+  nav li {
+    display: inline-block;
+    font-display: black;
+    margin: 15px;
+  }
+  nav a {
+    text-decoration: none;
+    color: white;
+    
+  }
+  .About{
+    text-align: left;
+    font-size:x-large;
+    color: whitesmoke;
+  }
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:aqua;
+    text-align: center;
+  }
+
+  

@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: auto;
+  }
+  body {
+    background-image: url("contact us.jpg");
+    background-size: cover;
+    background-position: center top;
+    margin: 30px;   
+  }
+  h1{
+    color:white;
+  }
+  h2{
+    color:white;
+  }
+  .contact a{
+    color:firebrick;
+    font-size: larger;
+  }
+  .contact p{
+    color:white;
+    font-size: larger;
+  }
+  nav{
+    color: black;
+    padding: -5px;
+    text-align: right;
+  }
+  nav ul{
+    color:black;
+    list-style: decimal-leading-zero;
+    padding: 20px;
+    text-align: right;
+  }
+  nav li {
+    display: inline-block;
+    font-display: black;
+    margin: 15px;
+  }
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background-color:firebrick;
+    text-align: center;
+  }
